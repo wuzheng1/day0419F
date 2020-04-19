@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        int a = 0;
        /* ArrayList<Student> students = new ArrayList<>();
         for (int i = 0; i < 10; i++) {
             Student student = new Student();
